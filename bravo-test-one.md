@@ -16,3 +16,17 @@
   - git add .
   - git commit -m "message" "goal of message:human communication of what is occurring"
   - git push origin main (not always main)
+
+### Useful Git commands
+```
+git add .
+git command -m "something that is helpful to future me"
+git push origin main
+```
+
+### Useful Terminal commmands
+```
+ls- lists all the content of the current directory
+touch- makes a new file
+cd <name> - changes directory into another nested folder 
+cd .. - moves back one level, moves
