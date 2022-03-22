@@ -28,5 +28,18 @@ git push origin main
 ```
 ls- lists all the content of the current directory
 touch- makes a new file
-cd <name> - changes directory into another nested folder 
-cd .. - moves back one level, moves
+cd <name> - changes directory into another nested folder
+cd .. - moves back one level, moves one level close to the root
+
+### Best Git Command Ever
+```
+git status
+```
+
+### Documentation and resources
+  -Bravo Syllabus
+  -Bravo Classroom Google Drive
+  - Cohortmates
+  - LEARN Slack channels
+    -2022b
+    -everybody 
